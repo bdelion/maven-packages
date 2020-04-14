@@ -1,2 +1,2 @@
 # maven-packages
-Dépôt pour les artifact Maven de mes différents projets
+Dépôt pour les artifacts Maven de mes différents projets
